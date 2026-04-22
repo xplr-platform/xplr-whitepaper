@@ -1,13 +1,13 @@
-# Table of contents
-
 * [XPLR Whitepaper](README.md)
 
 ## Welcome
+
 * [📖 XPLR](welcome/xplr/README.md)
   * [Introduction](welcome/xplr/introduction.md)
   * [Background](welcome/xplr/background.md)
 
 ## Core Concept
+
 * [CORE CONCEPT](core-concept/README.md)
 * [⛏️ XPLR Platform Introduction](core-concept/xplr-platform-introduction/README.md)
   * [Innovative Algorithmic Trading Model-Pooling Algorithm Model](core-concept/xplr-platform-introduction/innovative-algorithmic-trading-model.md)
@@ -32,6 +32,7 @@
   * [Security System](core-concept/system-architecture/security-system.md)
 
 ## XPLR DAO
+
 * [XPLR DAO](xplr-dao/README.md)
 * [💹 XPLR DAO](xplr-dao/xplr-dao/README.md)
   * [Future Expansion](xplr-dao/xplr-dao/future-expansion.md)
@@ -39,6 +40,7 @@
   * [Disclaimer](xplr-dao/xplr-dao/disclaimer.md)
 
 ## F&Q
+
 * [F&Q](faq/README.md)
 * [🗣️ How to use](faq/how-to-use/README.md)
 * [📗 Instruction manual](faq/instruction-manual/README.md)
@@ -48,6 +50,7 @@
 * [💡 FAQ](faq/faq/README.md)
 
 ## LINK
+
 * [LINK](link/README.md)
 * [💻 Website](link/website.md)
 * [📔 Medium](link/medium.md)
